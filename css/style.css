@@ -103,3 +103,10 @@ nav.open ~ .overlay {
   left: 260px;
   pointer-events: auto;
 }
+
+img {
+  width: 80px;
+  position: absolute;
+  right: 30px;
+  top: 15px;
+}
