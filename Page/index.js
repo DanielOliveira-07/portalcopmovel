@@ -8,5 +8,4 @@ function Logar(){
     }else{
         alert('Usuario ou senha incorretos');
     }
-
 }
